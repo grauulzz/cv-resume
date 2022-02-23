@@ -263,3 +263,6 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+# user-defined
+/cv-resume.code-workspace
